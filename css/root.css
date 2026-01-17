@@ -35,7 +35,7 @@
 
 :root {
   --main-color-dark: #585858;
-  --main-color-light: #ebebeb;
+  --main-color-light: #e8eaeb;
   --main-color-light-add: #ffffff;
 
   --basic-color-dark: #585858;
@@ -61,3 +61,4 @@
   --add2-color-light-dt: rgba(255, 255, 255, 0.05);
   --add3-color-light-dt: rgba(255, 255, 255, 0.35);
 }
+
