@@ -34,14 +34,14 @@
 }
 
 :root {
-  --main-color-dark: #3e3e40;
-  --main-color-light: #ebf2f2;
+  --main-color-dark: #585858;
+  --main-color-light: #ebebeb;
   --main-color-light-add: #ffffff;
 
-  --basic-color-dark: #3e3e40;
+  --basic-color-dark: #585858;
   --basic-color-light: #ffffff;
 
-  --add1-color-dark: #3e3e40;
+  --add1-color-dark: #585858;
   --add1-color-light: rgba(255, 255, 255, 0.8);
 
   --add2-color-light: rgba(255, 255, 255, 0.15);
@@ -49,14 +49,14 @@
 }
 
 :root {
-  --main-color-dark-dt: #ebf2f2;
-  --main-color-light-dt: #3c3c40;
-  --main-color-light-add-dt: #ebf2f2;
+  --main-color-dark-dt: #f1f1f1;
+  --main-color-light-dt: #4a4a4d;
+  --main-color-light-add-dt: #ffffff;
 
-  --basic-color-dark-dt: #ebf2f2;
-  --basic-color-light-dt: #3c3c40;
+  --basic-color-dark-dt: #f1f1f1;
+  --basic-color-light-dt: #3d3d41;
 
-  --add1-color-dark-dt: #3c3c40;
+  --add1-color-dark-dt: #585858;
   --add1-color-light-dt: rgba(255, 255, 255, 0.8);
   --add2-color-light-dt: rgba(255, 255, 255, 0.05);
   --add3-color-light-dt: rgba(255, 255, 255, 0.35);
