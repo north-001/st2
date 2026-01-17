@@ -34,14 +34,14 @@
 }
 
 :root {
-  --main-color-dark: #585858;
+  --main-color-dark: #585859;
   --main-color-light: #e8eaeb;
   --main-color-light-add: #ffffff;
 
-  --basic-color-dark: #585858;
+  --basic-color-dark: #585859;
   --basic-color-light: #ffffff;
 
-  --add1-color-dark: #585858;
+  --add1-color-dark: #585859;
   --add1-color-light: rgba(255, 255, 255, 0.8);
 
   --add2-color-light: rgba(255, 255, 255, 0.15);
@@ -61,4 +61,5 @@
   --add2-color-light-dt: rgba(255, 255, 255, 0.05);
   --add3-color-light-dt: rgba(255, 255, 255, 0.35);
 }
+
 
